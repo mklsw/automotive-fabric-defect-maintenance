@@ -1,7 +1,7 @@
 #  -*- coding:UTF-8 -*-
 '''
 defect code  maintenance manual.
-1 defect code can modified with end user.
+1 defect code can modified by end user.
 
 2 defect code include supplier code ,inside code and customer code.
 
